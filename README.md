@@ -1,6 +1,6 @@
 # esp32-serial-midi-controller
 
-'''
+[
 ========================================================================================
                       BREADBOARD CIRCUIT SCHEMATIC DIAGRAM
                Project: Custom Low-Latency ESP32 Serial MIDI Controller
@@ -44,4 +44,4 @@
    * Path B (Signal processing): LilyGO [GPIO 13] ───> Jumper Wire ───> Switch 2 [Top-Left Pin]
    * Path C (Static drain):    Switch 2 [Top-Left Pin] ───> 10kΩ Resistor ───> Blue Rail (-) [GND]
 ========================================================================================
-'''
+]
